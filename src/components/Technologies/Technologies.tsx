@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
+      I've worked with a range of technologies in the web development world.
     </SectionText>
     <List>
       <ListItem>
@@ -30,7 +30,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            HTML/CSS, React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>

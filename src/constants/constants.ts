@@ -42,9 +42,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 1111, text: "Lorem ipsum dolor sit amet." },
-  { year: 1111, text: "Lorem ipsum dolor sit amet." },
-  { year: 1111, text: "Lorem ipsum dolor sit amet." },
-  { year: 1111, text: "Lorem ipsum dolor sit amet." },
-  { year: 1111, text: "Lorem ipsum dolor sit amet." },
+  { year: 2016, text: "Computer engineering." },
+  { year: 2017, text: "Applied Mathematics and Statistics." },
+  { year: 2018, text: "Data Analysis with R." },
+  { year: 2019, text: "Mathematics modeling with MATLAB." },
+  { year: 2020, text: "Reactjs." },
+  { year: 2021, text: "Google data analytic course." },
 ];
