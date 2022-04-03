@@ -3,7 +3,7 @@ export const projects = [
     title: "PROJECT 1",
     description:
       "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/1.png",
+    image: "/images/1.webp",
     tags: ["tech1", "tech2", "tech3", "tech4"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -13,7 +13,7 @@ export const projects = [
     title: "E-PROJECT 2",
     description:
       "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/2.png",
+    image: "/images/2.webp",
     tags: ["tech1", "tech2", "tech3", "tech4"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -23,7 +23,7 @@ export const projects = [
     title: "PROJECT 3",
     description:
       "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/3.jpg",
+    image: "/images/3.webp",
     tags: ["tech1", "tech2", "tech3", "tech4"],
     source: "https://google.com",
     visit: "https://google.com",
@@ -33,7 +33,7 @@ export const projects = [
     title: "PROJECT 4",
     description:
       "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/4.jpg",
+    image: "/images/4.webp",
     tags: ["tech1", "tech2", "tech3", "tech4"],
     source: "https://google.com",
     visit: "https://google.com",
