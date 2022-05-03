@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "PROJECT 1",
+    title: "Ecommerce Store",
     description:
-      "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/1.webp",
-    tags: ["tech1", "tech2", "tech3", "tech4"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "An online store where you can shop from the comfort of your own home. Integrated with NextJS for better SEO google webserch using server-side rendering and static site generation. Complete payment integration with Stripe. ",
+    image: "/images/h1.webp",
+    tags: ["React", "NextJs", "SSR", "SSG", "Sanity", "Stripe"],
+    source: "https://github.com/BensonFeng/nextjs-ecommerce-sanity-stripe",
+    visit: "https://nextjs-ecommerce-sanity-stripe.vercel.app/",
     id: 0,
   },
   {
