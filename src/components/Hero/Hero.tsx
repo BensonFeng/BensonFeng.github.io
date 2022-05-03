@@ -19,7 +19,9 @@ const Hero = (props) => (
         <SectionText>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={(event) => (window.location.href = "#projects")}>
+          Learn More
+        </Button>
       </LeftSection>
     </Section>
   </>
