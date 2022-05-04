@@ -10,13 +10,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-PROJECT 2",
+    title: "Discover store",
     description:
-      "Lorem ipsum dolor sit amet. Sed voluptate neque et adipisci neque est autem excepturi aut assumenda sunt aut doloribus fuga est accusantium adipisci. Aut internos recusandae et molestiae consequatur non velit quaerat cum modi odio vel doloremque quaerat non laborum commodi. Eos laudantium voluptates et iste praesentium non ",
-    image: "/images/2.webp",
-    tags: ["tech1", "tech2", "tech3", "tech4"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "Use web browser geolocation to locate nearby coffee store vote on your favoure store. Web application were optimize for the web crawler SEO. Load content on the servers so that the content can be loaded ahead of time.",
+    image: "/images/c1.webp",
+    tags: ["NextJs", "SEO", "Context-api", "Unsplash", "Airtable"],
+    source: "https://github.com/BensonFeng/discover-coffee-stores",
+    visit: "https://nextjs-discover-coffee-stores.vercel.app/",
     id: 1,
   },
   {
